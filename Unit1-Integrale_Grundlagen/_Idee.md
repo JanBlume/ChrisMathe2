@@ -1,0 +1,1 @@
+In der Unit gibt es die wichtigsten Sachen zum Thema Integrale und viele kleine Übungen für Integrale/Stammfunktionen, die man drauf haben sollte für Mathe 2.
