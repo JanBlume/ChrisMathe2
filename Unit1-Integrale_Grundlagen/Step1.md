@@ -6,7 +6,7 @@ Bestimmt hast du schonmal so ein Integral gesehen:
 $\int f(x) dx$
 
 <details>
-<summary>**1.1.1: Was ist das "besondere" an diesem Integral?*</summary>
+<summary>**1.1.1: Was ist das "besondere" an diesem Integral?**</summary>
 
 
 Es ist unbestimmt.
