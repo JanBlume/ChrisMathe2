@@ -7,7 +7,9 @@ Anmerkung: Ich bin schreibfaul und verzichte überall auf die Konstante C aus de
 
 
 <span style="color: red">1.2.1: 
-Was ergibt das Integral hier? $ \int 0 dx = ?$
+Was ergibt das Integral hier? 
+
+$ \int 0 dx = ?$
 <details>
 <summary><span style="color: red">Lösung</span></summary>
 
